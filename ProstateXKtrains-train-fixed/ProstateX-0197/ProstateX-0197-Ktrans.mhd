@@ -1,0 +1,14 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = True
+CompressedDataSize = 781066
+TransformMatrix = 1 -1.95394e-010 6.23582e-011 2.05103e-010 0.952661 -0.304033 0 0.304033 0.952661
+Offset = -74.4041 -79.3317 40.3244
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSpacing = 1.5 1.5 4
+DimSize = 128 128 16
+ElementType = MET_DOUBLE
+ElementDataFile = ProstateX-0197-Ktrans.zraw
